@@ -10,4 +10,4 @@ Finished Projects:
 - Speak like a whale.
 - Daily special menu display
 
-Yannik is lit, gang gang.
+Yannix is lit, gang gang.
