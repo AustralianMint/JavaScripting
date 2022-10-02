@@ -8,5 +8,6 @@ Finished Projects:
 - Sleep Debt Calculator.
 - Refactoring the scopes of variables.
 - Speak like a whale.
+- Daily special menu display
 
 Yannik is lit, gang gang.
